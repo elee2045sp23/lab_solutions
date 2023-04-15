@@ -4,12 +4,8 @@ Note: An arduino program was not uploaded, as it is the same as the lab4 control
 
 Video for Part 1
 
-<video width="320" height="240" controls>
-  <source src="part1.mp4" type="video/mp4">
-</video>
+https://user-images.githubusercontent.com/5815592/232245493-bac3fd5e-7783-4b69-97eb-52ae5f95690e.mp4
 
 Video for Part 2
 
-<video width="320" height="240" controls>
-  <source src="part2.mp4" type="video/mp4">
-</video>
+https://user-images.githubusercontent.com/5815592/232245495-849a0362-e094-492c-a086-ac780e87fa2d.mp4
